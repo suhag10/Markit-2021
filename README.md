@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
 
-markit [Website on GitHub](https://suhaga7.github.io/markit-2021/index.html).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markit [Website on GitHub](https://suhaga7.github.io/Markit-2021/index.html).
 
 [Design Markit](assets/img/full-design_2021-12-19_075344.png)
 
@@ -22,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 ```
 
-### Themes Name markit
+### Themes Name Markit
 [inspiration by design](https://themepure.net/template/markit/markit/index.html)
 
 ### Jekyll Themes
