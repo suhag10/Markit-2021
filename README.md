@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-Markit [Website on GitHub](https://suhaga7.github.io/Markit-2021/index.html).
+Digital Marketplace [Website on GitHub](https://suhag10.github.io/digital-marketplace).
 
-[Design Markit](assets/img/full-design_2021-12-19_075344.png)
+[Design Digital Marketplace](assets/img/full-design_2021-12-19_075344.png)
 
 ### Links CSS
 ```markdown
@@ -18,7 +18,7 @@ Markit [Website on GitHub](https://suhaga7.github.io/Markit-2021/index.html).
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 ```
 
-### Themes Name Markit
+### Themes Name Digital Marketplace
 [inspiration by design](https://themepure.net/template/markit/markit/index.html)
 
 ### Jekyll Themes
