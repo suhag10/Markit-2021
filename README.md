@@ -27,5 +27,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Check out our [Email 📧 suhaga7@hotmail.com](mailto:suhaga7@hotmail.com).
+<!-- Check out our [Email 📧 suhaga7@hotmail.com](mailto:suhaga7@hotmail.com). -->
 
