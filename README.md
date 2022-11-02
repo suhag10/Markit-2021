@@ -25,7 +25,7 @@ Markit [Website on GitHub](https://suhaga7.github.io/Markit-2021/index.html).
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suhaga7/PSD-to-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<!-- ### Support or Contact -->
 
 <!-- Check out our [Email 📧 suhaga7@hotmail.com](mailto:suhaga7@hotmail.com). -->
 
